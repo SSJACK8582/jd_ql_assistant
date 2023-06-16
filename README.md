@@ -55,5 +55,4 @@ i (index) <账号序号> # 【不填=默认全部】 账号序号1,账号序号2
 
 ## 支持
 
-- 考研失败开发，欢迎合作支持
-- ![image](https://github.com/SSJACK8582/jd_ql_assistant/blob/main/files/alipay.jpg)
+- 已被举报下架
